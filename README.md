@@ -1,1 +1,1 @@
-# polygon.json
+ I have start by extracting all the URLs and details for projects related to Polygon from the provided JSON file. Then, I create a new JSON file named "Polygon.json" and fill it with the extracted data without changing the structure. Finally, I have uploaded it to a public GitHub repository and share the link with you. 
